@@ -1,0 +1,12 @@
+{
+  "name": "pazguille-shuffle-array",
+  "description": "Randomize the order of the elements in a given array.",
+  "version": "0.0.1",
+  "keywords": [
+    "random",
+    "shuffle",
+    "array"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}

@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [pazguille/shuffle-array](http://github.com/pazguille/shuffle-array). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/pazguille-shuffle-array`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # shuffle-array
 
 Randomize the order of the elements in a given array using the [Fisher-Yates algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle).
